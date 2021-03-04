@@ -1,0 +1,11 @@
+#portfolio {
+    text-align: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+.card-img-top {
+    border-color: solid 1px black;
+}
+#upNext {
+    text-align: center;
+    font-weight: bolder;
+}

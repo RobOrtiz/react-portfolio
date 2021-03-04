@@ -1,0 +1,25 @@
+#intro-card {
+    font-family: 'Jockey One', sans-serif;
+    float: left;
+    padding: 5rem;
+    border: 0;
+}
+#info-card {
+    text-align: right;
+    font-family: 'Jockey One', sans-serif;
+    font-size: large;
+    margin-top: 20px;
+    border: 0;
+    padding: 3rem;
+}
+#resume {
+    text-align: justify;
+    font-size: larger;
+    color: white;
+}
+#intro {
+    background-size: cover;
+  }
+  .welcome {
+    text-align: left;
+}
