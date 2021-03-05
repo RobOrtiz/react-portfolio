@@ -5,6 +5,7 @@ import Background from "./components/Background";
 import Main from "./components/Main";
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
+import Footer from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
@@ -16,6 +17,7 @@ class App extends Component {
         <Main />
         <About />
         <Portfolio />
+        <Footer />
       </div>
     );
   }
